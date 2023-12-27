@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Breadman1008
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Breadman1008/Breadman1008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in DeFi, Blockchain, Dapps, web3/4, crypto
+- 🌱 I’m currently learning Blockchain revolution (Coursera)
+- 💞️ I’m looking to collaborate on Solana, IoTex Fetch
+- 📫 How to reach me Jon.donovan.9756
